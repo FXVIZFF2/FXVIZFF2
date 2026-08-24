@@ -3,10 +3,17 @@
 # Davi Ciriaco - FXVIZFF2
 
 <p>DESENVOLVEDOR JAVA CURSANDO DS</p>
-
+<div class="logos">  
 <img width="50" height="50" alt="download" src="https://skillicons.dev/icons?i=java" />
 <img width="50" height="50" alt="images" src="https://skillicons.dev/icons?i=html" />
 <img width="50" height="50" alt="images" src="https://skillicons.dev/icons?i=css" />
 <img width="50" height="50" alt="images" src="https://skillicons.dev/icons?i=js" />
+</div>
 
-
+<style>
+  .logos{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+  }
+</style>
