@@ -4,9 +4,9 @@
 
 <p>DESENVOLVEDOR JAVA CURSANDO DS</p>
 
-<img width="50" height="50" alt="download" src="https://github.com/user-attachments/assets/e48cb053-2e6b-47c0-a73e-37e11f7389f7" />
-<img width="50" height="50" alt="images" src="https://github.com/user-attachments/assets/7cdae726-767b-4b1f-8d1d-6f457f9c9d43" />
+<img width="50" height="50" alt="download" src="https://skillicons.dev/icons?i=java" />
+<img width="50" height="50" alt="images" src="https://skillicons.dev/icons?i=html" />
 <img width="50" height="50" alt="images" src="https://skillicons.dev/icons?i=css" />
-<img width="50" height="50" alt="images" src="https://github.com/user-attachments/assets/1d8b88b6-e13d-45b9-b086-efe25935c8ed" />
+<img width="50" height="50" alt="images" src="https://skillicons.dev/icons?i=js" />
 
 
