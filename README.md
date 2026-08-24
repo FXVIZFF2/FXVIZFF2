@@ -10,10 +10,4 @@
 <img width="50" height="50" alt="images" src="https://skillicons.dev/icons?i=js" />
 </div>
 
-<style>
-  .logos{
-    display:flex;
-    flex-direction:row;
-    justify-content:space-evenly;
-  }
-</style>
+
