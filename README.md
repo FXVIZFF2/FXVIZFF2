@@ -7,6 +7,3 @@
 
 <br />
 
-### 🕹️ Meu Tabuleiro do Pac-Man
-
-<img src="https://githubusercontent.com" alt="Pac-Man FXVIZFF2" />
