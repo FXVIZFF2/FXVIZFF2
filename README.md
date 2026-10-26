@@ -8,5 +8,8 @@
 ### 🕹️ Meu Tabuleiro do Pac-Man
 
 
-![Pac-Man FXVIZFF2](https://githubusercontent.com)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="Pac-Man FXVIZFF2" src="https://githubusercontent.com">
+</picture>
